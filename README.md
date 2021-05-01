@@ -24,5 +24,5 @@ https://entityframework-effort.net/overview
    at System.Data.Entity.Internal.InternalContext.Initialize()
    at System.Data.Entity.Internal.InternalContext.ForceOSpaceLoadingForKnownEntityTypes()
    at System.Data.Entity.DbContext.System.Data.Entity.Infrastructure.IObjectContextAdapter.get_ObjectContext()
-   at Finexkap.Infrastructure.Persistence.FinexkapDatabaseContext.get_ObjectContext() in C:\repo\FinexkapMain\Infrastructure\Finexkap.Infrastructure.Persistence\FinexkapDatabaseContext.cs:line 512
+   at My.Infrastructure.Persistence.MyDbContext.get_ObjectContext() in C:\repo\MyMain\Infrastructure\My.Infrastructure.Persistence\MyDbContext.cs:line 512
 ```
